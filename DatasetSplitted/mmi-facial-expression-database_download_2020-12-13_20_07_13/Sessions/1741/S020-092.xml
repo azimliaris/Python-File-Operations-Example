@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<ActionUnitCoding NumFrames="40">
+  <Metatag Name="Date" Value="24-Feb-2006 03:41:18"/>
+	<Metatag Name="Emotion" Value="0"/>
+  <Metatag Name="Aucoder" Value="MMI Database"/>
+  <ActionUnit Number="46">
+	<Marker Frame="1" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="46R">
+	<Marker Frame="1" Type="0"/>
+  </ActionUnit>
+</ActionUnitCoding>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<session sessionId="1742" recDate="2003-12-12" recTime="00:00:00">
+	<subject hasBeard="False" hasMoustache="False" hasGlasses="True" id="20"/>
+	<track color="1" filename="S020-093.avi" id="1742.1" type="Video" view="0">
+		<annotation filename="S020-093.xml" id="1742.1.1" type="EMFACS"/>
+		<annotation filename="S020-093-oao_aucs.xml" id="1742.1.2" type="EMFACS" visible="1"/>
+	</track>
+</session>
+

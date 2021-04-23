@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<ActionUnitCoding NumFrames="80">
+  <Metatag Name="Date" Value="2007-08-14"/>
+  <Metatag Name="AuCoder" Value=""/>
+  <Metatag Name="Basedirectory" Value="/tmp/pomiro"/>
+  <ActionUnit Number="2">
+    <Marker Frame="1" Type="0"/>
+    <Marker Frame="16" Type="1"/>
+    <Marker Frame="21" Type="2"/>
+    <Marker Frame="30" Type="1"/>
+    <Marker Frame="37" Type="3"/>
+    <Marker Frame="41" Type="2"/>
+    <Marker Frame="60" Type="3"/>
+    <Marker Frame="67" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="20">
+    <Marker Frame="1" Type="0"/>
+    <Marker Frame="14" Type="1"/>
+    <Marker Frame="21" Type="3"/>
+    <Marker Frame="24" Type="2"/>
+    <Marker Frame="69" Type="3"/>
+    <Marker Frame="74" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="25">
+    <Marker Frame="1" Type="0"/>
+    <Marker Frame="16" Type="1"/>
+    <Marker Frame="19" Type="2"/>
+    <Marker Frame="29" Type="3"/>
+    <Marker Frame="32" Type="2"/>
+    <Marker Frame="38" Type="1"/>
+    <Marker Frame="39" Type="2"/>
+    <Marker Frame="71" Type="1"/>
+    <Marker Frame="72" Type="2"/>
+    <Marker Frame="74" Type="3"/>
+    <Marker Frame="80" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="4">
+    <Marker Frame="1" Type="0"/>
+    <Marker Frame="12" Type="1"/>
+    <Marker Frame="18" Type="2"/>
+    <Marker Frame="54" Type="3"/>
+    <Marker Frame="67" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="45">
+    <Marker Frame="1" Type="0"/>
+    <Marker Frame="71" Type="1"/>
+    <Marker Frame="75" Type="3"/>
+    <Marker Frame="80" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="5">
+    <Marker Frame="1" Type="0"/>
+    <Marker Frame="6" Type="1"/>
+    <Marker Frame="12" Type="2"/>
+    <Marker Frame="60" Type="3"/>
+    <Marker Frame="68" Type="0"/>
+  </ActionUnit>
+</ActionUnitCoding>

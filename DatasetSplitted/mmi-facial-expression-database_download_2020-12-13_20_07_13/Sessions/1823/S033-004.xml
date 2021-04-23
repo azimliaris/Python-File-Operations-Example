@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<ActionUnitCoding NumFrames="80">
+  <Metatag Name="Date" Value="2007-08-14"/>
+  <Metatag Name="AuCoder" Value=""/>
+  <Metatag Name="Basedirectory" Value="/tmp/pomiro"/>
+  <ActionUnit Number="2">
+	<Marker Frame="1" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="20">
+	<Marker Frame="1" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="25">
+	<Marker Frame="1" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="4">
+	<Marker Frame="1" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="45">
+	<Marker Frame="1" Type="0"/>
+  </ActionUnit>
+  <ActionUnit Number="5">
+	<Marker Frame="1" Type="0"/>
+  </ActionUnit>
+</ActionUnitCoding>

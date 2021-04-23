@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<session sessionId="1823" recDate="2003-12-12" recTime="00:00:00">
+	<subject hasBeard="False" hasMoustache="False" hasGlasses="True" id="33"/>
+	<track color="1" filename="S033-004.avi" id="1823.1" type="Video" view="0">
+		<annotation filename="S033-004.xml" id="1823.1.1" type="EMFACS"/>
+		<annotation filename="S033-004-oao_aucs.xml" id="1823.1.2" type="EMFACS" visible="1"/>
+		<annotation filename="S033-004-tracked.xml" id="1823.1.3" type="FaceTracking" visible="0"/>
+	</track>
+</session>
+
