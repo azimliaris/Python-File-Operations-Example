@@ -28,11 +28,11 @@ def createFolder(directoryLocation):
         print('Error: Creating directory. ' + directoryLocation)
 
 
-createFolder(r'C:\Users\GAMEEKSTRA\Desktop\MMI_Dataset_Splitted') #kendi bilgisayarınızda çalıştırırsanız değiştirmeniz gerekiyor hocam
+createFolder(r'C:\MMI_Dataset_Splitted') #need to change root
 
-createdFolderPath = r'C:\Users\GAMEEKSTRA\Desktop\MMI_Dataset_Splitted' #kendi bilgisayarınızda çalıştırırsanız değiştirmeniz gerekiyor hocam
+createdFolderPath = r'C:\MMI_Dataset_Splitted' #need to change root
 
-directory = r"C:\Users\GAMEEKSTRA\Desktop\mmi-facial-expression-database_download_2020-12-13_20_07_13" #kendi bilgisayarınızda çalıştırırsanız değiştirmeniz gerekiyor hocam
+directory = r"C:\mmi-facial-expression-database_download_2020-12-13_20_07_13" #need to change root
 for roots, dirs, files in os.walk(directory):
     for file in files:
         if file.endswith('oao_aucs.xml'):
